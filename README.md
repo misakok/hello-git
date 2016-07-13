@@ -20,3 +20,4 @@
 * Tofu
 * Tempura
 * Chips
+* rice

@@ -21,3 +21,5 @@
 * Tempura
 * Chips
 * rice
+
+(・∀・)

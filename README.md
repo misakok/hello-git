@@ -1,6 +1,7 @@
-好きな食べもの:
+﻿好きな食べもの:
 * Spaghetti
 * Pizza
 * Tofu
 * Tempura
 * Chips
+* Ice  
